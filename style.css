@@ -56,7 +56,7 @@ body {
 }
 
 .back {
-    background-color: coral;
+    background-color: blue;
     color: antiquewhite;
     position: absolute;
     z-index: 1;
